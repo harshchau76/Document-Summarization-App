@@ -96,9 +96,6 @@ A Docker Compose file is provided to set up and run both the backend and fronten
 - **LLM Integration**: Integrated a pre-trained LLM for summarization.
 - **Concurrency**: Ensured the backend can handle multiple concurrent requests.
 
-## Optional: Video Demonstration
-A video demonstrating the working application can be found [here](#).
-
 ## Bibliography
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
 - [React Documentation](https://reactjs.org/)
